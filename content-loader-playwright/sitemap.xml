@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+	<loc>https://test.hsdevops.net/client/my/info</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/finances</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/users</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/orders/payments</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/priority</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/acdn</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/reply</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/keys/help</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/sitemap.xml</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/department</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/merged</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/article</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/servers</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/money</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/sitemap</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/acdn/domains</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/revalidate</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/change/ns</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/cdn/resources/purge</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/invoices</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/whois</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/change/contacts</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/sales/orders</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/cdn/resources</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/article/comment</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/country</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/cdn</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/cdn/resources/cname</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/info/values</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/money/source</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/cdn/origins</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/cdn/ssl</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/cdn/traffic</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/change/flags</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/transfer</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/sales</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/settings/language</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/finances/payments</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/status</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/emails</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/settings</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/users</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/orders</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/orders/services</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/view</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/cdn/resources/dc</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/prices</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/search</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/sales/invoices</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/settings/currency</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/referrals</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/finances/add</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/money/payment</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/keys</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/close</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/my/orders/bindings</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/edit</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/services/domains/hosted</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url><url>
+	<loc>https://test.hsdevops.net/client/ticket/open</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url>
+</urlset>
